@@ -79,6 +79,15 @@ Usage
 *   **Manage Permissions**: Create permissions for other administrators and control their access.
 *   **View Reports**: Access various financial reports and statistics related to invoices.
     
+![dashboard](https://github.com/user-attachments/assets/01026153-4201-4d2b-9b6f-06a4682fa758)
+![add-section](https://github.com/user-attachments/assets/37b0186f-4ee8-4067-824b-72d6a1f9cf60)
+![sections](https://github.com/user-attachments/assets/7b219679-cac3-4dde-be4f-aed4682dfd94)
+![products](https://github.com/user-attachments/assets/72554d69-f3dc-428e-8a6a-3bc935b452d6)
+![add-product](https://github.com/user-attachments/assets/79d3c9ec-7c66-4195-9152-e03a903d7046)
+![add-invoice](https://github.com/user-attachments/assets/3f010a9e-1ab5-49a4-a4c7-28c2b281098d)
+![invoices](https://github.com/user-attachments/assets/aa5f15fc-6556-4b65-b5b6-35fd46c92db2)
+![reports](https://github.com/user-attachments/assets/b0acd768-77c4-4889-bfb9-5aeb0dc19f40)
+![permissions](https://github.com/user-attachments/assets/1f5496e2-ba9d-4ecd-bb8c-287447b25d38)
 
 Contributing
 ------------
